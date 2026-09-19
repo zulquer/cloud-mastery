@@ -1,0 +1,13 @@
+{
+  "name": "cloud-mastery",
+  "version": "1.0.0",
+  "description": "Ruta de Maestría Senior & Staff en Cloud Architecture, Kubernetes, Terraform, Redes y FinOps",
+  "type": "module",
+  "scripts": {
+    "cloud:senior:01": "tsx tracks/05-senior-internals/01-kubernetes-hpa-and-traffic-surge.ts",
+    "cloud:senior:02": "tsx tracks/05-senior-internals/02-cloud-cost-finops-optimizer.ts"
+  },
+  "devDependencies": {
+    "tsx": "^4.23.13"
+  }
+}

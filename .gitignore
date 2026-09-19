@@ -1,0 +1,36 @@
+# Dependencias
+node_modules/
+node_modules
+
+# Terraform / OpenTofu
+.terraform/
+*.tfstate
+*.tfstate.*
+crash.log
+crash.*.log
+*.tfvars
+*.tfvars.json
+override.tf
+override.tf.json
+*_override.tf
+*_override.tf.json
+.terraformrc
+terraform.rc
+
+# Build & Dist
+dist/
+build/
+coverage/
+
+# Entornos y Secretos
+.env
+*.env
+!*.env.example
+
+# Logs
+*.log
+npm-debug.log*
+
+# OS
+.DS_Store
+Thumbs.db
