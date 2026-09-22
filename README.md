@@ -2,6 +2,16 @@
 
 Repositorio maestro de referencia técnica profunda para consolidar habilidades de nivel **Senior / Staff / Cloud Solutions Architect / Platform Engineer** en **Arquitectura Cloud (AWS, Azure, DigitalOcean, GCP), Contenedores y Kubernetes, Infraestructura como Código (Terraform / OpenTofu), Redes Virtuales Privadas (VPCs), Seguridad IAM y Optimización de Costes (FinOps)**.
 
+---
+
+## 🎯 Preguntas de Entrevista Técnica
+
+Para preparar entrevistas técnicas de alto nivel (**Senior Cloud Solutions Architect, SRE y Platform Engineer**), este módulo incluye la guía:
+
+👉 **[Las 100 Preguntas Más Comunes en Entrevistas Técnicas: Cloud & Platform Engineering](./INTERVIEW-QUESTIONS.md)** (Multi-AZ/Region, AWS Well-Architected, Kubernetes Internals, HPA, Karpenter, Terraform IaC, IAM IRSA, FinOps, con criterios 🚩 *Red Flags* vs 🟢 *Green Flags*).
+
+---
+
 ## 🌐 The Mastery Suite (Ecosistema Modular)
 
 | Repositorio | Especialidad Técnica | Enlace |
